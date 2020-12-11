@@ -12,7 +12,10 @@ import ExpandMoreOutlinedIcon from "@material-ui/icons/ExpandMoreOutlined";
 export default function Sidebar() {
   return (
     <div className="sidebar">
-      {/* <SidebarRow src={user?.photoURL} title={user?.displayName} /> */}
+      {/* <SidebarRow
+        src="https://avatars0.githubusercontent.com/u/43115122?s=460&u=63e0d46721cbdb324d204c461a47f0dc0d3b5840&v=4"
+        title="Stilbo"
+      /> */}
       <SidebarRow
         Icon={LocalHospitalIcon}
         title="Covid-19 Information Center"

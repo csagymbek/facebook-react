@@ -1,3 +1,3 @@
 # Facebook React App
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://facebook-react-c1e89.web.app/](https://facebook-react-c1e89.web.app/) to view it in the browser.
